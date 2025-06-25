@@ -1,0 +1,14 @@
+[
+  {
+	"particularidad" : "VALIDO",
+    "nombre": "Christopher Valverde Molina",
+    "email": "chrisvalverdem@gmail.com",
+    "comentario": "Esto es un comentario de prueba"
+  },
+  {
+	"particularidad" : "CORREO_NO_VALIDO",
+    "nombre": "Laura de los angeles",
+    "email": "laura.angeles",
+    "comentario": "Usuario con correo incorrecto"
+  }
+]
